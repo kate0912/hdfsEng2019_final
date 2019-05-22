@@ -1,6 +1,6 @@
 # SK C&C Big Data Knowledge Test (Part2)
 
-## Problem 1
+### Problem 1
 ```
 select id, status, amount, type
          from problem1.account 
