@@ -66,6 +66,7 @@ getent passwd training
 
 ###  b. Install a MySQL server & c. Install Cludera Manager
 ```
+-- Configure the repository for CM 5.15.2
 sudo yum install -y wget
 sudo wget https://archive.cloudera.com/cm5/redhat/7/x86_64/cm/cloudera-manager.repo \
 -P /etc/yum.repos.d/
